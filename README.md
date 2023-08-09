@@ -46,7 +46,8 @@ button {
     cursor: pointer;
 }
 button:hover {
-    transform: translateY(-15px);
+  translate: 0 -15px;
+  
 }
 .button-container {
     background-color: black;
